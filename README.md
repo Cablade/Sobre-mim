@@ -13,7 +13,7 @@ Estudante de Ciências da Computação.
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cablade&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cablade&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cablade&layout=compact&theme=tokyonight)
 
  ### Conecte-se comigo
 <div> 
